@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PecodeTestTask</string>
+    <string name="base_image">base image</string>
+    <string name="on_camera_disalowed_toast">To use an app allow camera usage in settings</string>
+</resources>
